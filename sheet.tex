@@ -1,4 +1,4 @@
-\documentclass[10pt,landscape,a4paper]{article}
+\documentclass[10pt,landscape,a5paper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[ngerman]{babel}
 \usepackage[T1]{fontenc}
@@ -18,20 +18,12 @@
 
 \let\bar\overline
 
-\include{inhalt/def}
+\include{sects/def}
 
 \begin{document}
 %\footnotesize
 \small
 \begin{multicols*}{5}
-\input{inhalt/aussagen}
-\input{inhalt/mengen}
-\input{inhalt/relationen}
-\input{inhalt/abbildungen}
-%\input{inhalt/beweise} 
-\input{inhalt/graphen}
-%\input{inhalt/graphalgo}
-%\input{inhalt/bool}
-%\input{inhalt/formeln}
+\input{sects/sect1}
 \end{multicols*}
 \end{document}
