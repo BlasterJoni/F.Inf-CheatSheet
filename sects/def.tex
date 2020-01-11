@@ -35,15 +35,18 @@
 %}
 
 \makeatletter % Author: https://tex.stackexchange.com/questions/218587/how-to-set-one-header-for-each-page-using-multicols
-\renewcommand{\section}{\@startsection{section}{1}{0mm}%
-                                {.2ex}%
-                                {.2ex}%x
-                                {\color{myblue}\sffamily\small\bfseries}}
-\renewcommand{\subsection}{\@startsection{subsection}{1}{0mm}%
-                                {.2ex}%
-                                {.2ex}%x
-                                {\sffamily\bfseries}}
+% Use this for proper sections
+%\renewcommand{\section}{\@startsection{section}{1}{0mm}%
+%                                {.2ex}%
+%                                {.2ex}%x
+%                                {\color{myblue}\sffamily\small\bfseries}}
+%\renewcommand{\subsection}{\@startsection{subsection}{1}{0mm}%
+%                                {.2ex}%
+%                                {.2ex}%x
+%                                {\sffamily\bfseries}}
 
+\renewcommand{\section}[1]{\textcolor{red}{#1}\\}
+\renewcommand{\subsection}[1]{\textcolor{violet}{#1}\\}
 
 
 \def\multi@column@out{%

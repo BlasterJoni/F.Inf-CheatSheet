@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2020.1.3)  11 JAN 2020 06:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2020.1.3)  11 JAN 2020 20:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1510,22 +1510,6 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ) (/home/joao/Documents/F.Inf-CheatSheet/sects/1-oscilations/oscilations.tex
-LaTeX Font Info:    Trying to load font information for T1+SourceSansPro-LF on input line 1.
- (/usr/share/texmf-dist/tex/latex/sourcesanspro/T1SourceSansPro-LF.fd
-File: T1SourceSansPro-LF.fd 2016/12/03 (autoinst) Font definitions for T1/SourceSansPro-LF.
-)
-LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/n' will be
-(Font)              scaled to size 8.0pt on input line 1.
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `SourceSansPro-LF' (encoding: T1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 1.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 1.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/b/n' will be
-(Font)              scaled to size 8.0pt on input line 2.
 LaTeX Font Info:    Trying to load font information for OT1+jkp on input line 3.
  (/usr/share/texmf-dist/tex/latex/kpfonts/ot1jkp.fd
 File: ot1jkp.fd 2007/08/30 Fontinst v1.928 font definitions for OT1/jkp.
@@ -1549,253 +1533,48 @@ File: ujkpsyb.fd 2006/08/15 v1.0
 LaTeX Font Info:    Trying to load font information for U+jkpsyc on input line 3.
  (/usr/share/texmf-dist/tex/latex/kpfonts/ujkpsyc.fd
 File: ujkpsyc.fd 2006/08/15 v1.0
-)
-Underfull \hbox (badness 10000) in paragraph at lines 14--17
-
- []
-
-) (/home/joao/Documents/F.Inf-CheatSheet/sects/2-waves1/waves1.tex
-Underfull \hbox (badness 10000) in paragraph at lines 18--1
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--12
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--15
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--17
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--20
+)) (/home/joao/Documents/F.Inf-CheatSheet/sects/2-waves1/waves1.tex) (/home/joao/Documents/F.Inf-CheatSheet/sects/3-waves2/waves2.tex) (/home/joao/Documents/F.Inf-CheatSheet/sects/4-electricCharge/electricCharge.tex) (/home/joao/Documents/F.Inf-CheatSheet/sects/5-electricFields/electricFields.tex) (/home/joao/Documents/F.Inf-CheatSheet/sects/6-gaussLaw/gaussLaw.tex) (/home/joao/Documents/F.Inf-CheatSheet/sects/7-electricPotential/electricPotential.tex) (/home/joao/Documents/F.Inf-CheatSheet/sects/8-capacitance/capacitance.tex) (/home/joao/Documents/F.Inf-CheatSheet/sects/9-currenAndResistance/currentAndResistance.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--37
 []\OML/jkp/m/it/8 y[] [] \OT1/jkp/m/n/8 (+20) =
  []
 
 
-Overfull \hbox (1.90576pt too wide) in paragraph at lines 18--20
+Overfull \hbox (1.90576pt too wide) in paragraph at lines 1--37
 [] \OML/jkp/m/it/8 sin []$[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--20
-
- []
-
-) (/home/joao/Documents/F.Inf-CheatSheet/sects/3-waves2/waves2.tex
-Underfull \hbox (badness 10000) in paragraph at lines 21--1
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--5
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--9
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 10--15
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--18
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19--20
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--24
-
- []
-
-) (/home/joao/Documents/F.Inf-CheatSheet/sects/4-electricCharge/electricCharge.tex
-Underfull \hbox (badness 10000) in paragraph at lines 25--1
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--7
-
- []
-
-) (/home/joao/Documents/F.Inf-CheatSheet/sects/5-electricFields/electricFields.tex
-Underfull \hbox (badness 10000) in paragraph at lines 8--1
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--3
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--6
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--10
-
- []
-
-) (/home/joao/Documents/F.Inf-CheatSheet/sects/6-gaussLaw/gaussLaw.tex
-Underfull \hbox (badness 10000) in paragraph at lines 11--1
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--9
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 10--12
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--14
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
-
- []
-
-) (/home/joao/Documents/F.Inf-CheatSheet/sects/7-electricPotential/electricPotential.tex
-Underfull \hbox (badness 10000) in paragraph at lines 17--1
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--4
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--7
+Underfull \hbox (badness 10000) in paragraph at lines 1--37
 []\OT1/jkp/m/n/8 (+20) 1\OML/jkp/m/it/8 eV \OT1/jkp/m/n/8 (+20) = \OML/jkp/m/it/8 e [] \OT1/jkp/m/n/8 (+20) =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5--7
+Underfull \hbox (badness 10000) in paragraph at lines 1--37
 [] [] \OT1/jkp/m/n/8 (+20) =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5--7
-
+Underfull \hbox (badness 10000) in paragraph at lines 1--37
+\T1/jkp/m/n/8 (+20) Superposition prin-ci-ple,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 8--12
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--15
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--17
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--20
-[]\T1/jkp/m/n/8 (+20) Superposition prin-ci-ple,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--20
+Underfull \hbox (badness 10000) in paragraph at lines 1--37
 \T1/jkp/m/n/8 (+20) li-ke elec-tric fields that
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--20
+Underfull \hbox (badness 10000) in paragraph at lines 1--37
 \T1/jkp/m/n/8 (+20) was a sum of vec-tors
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--20
-
+Underfull \hbox (badness 10000) in paragraph at lines 1--37
+\T1/jkp/m/n/8 (+20) 1 volt-ampere $[]\OT1/jkp/m/n/8 (+20) 1\OML/jkp/m/it/8 V \OMS/jkp/m/n/8 ^^A \OML/jkp/m/it/8 A \OT1/jkp/m/n/8 (+20) =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--24
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--26
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 27--30
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 30--30
-[]\T1/SourceSansPro-LF/b/n/8 ElectricPotentialEnergy Sy-
- []
-
-) (/home/joao/Documents/F.Inf-CheatSheet/sects/8-capacitance/capacitance.tex
-Underfull \hbox (badness 10000) in paragraph at lines 31--1
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--3
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--8
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--11
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--14
-
- []
-
-) (/home/joao/Documents/F.Inf-CheatSheet/sects/9-currenAndResistance/currentAndResistance.tex
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
+Underfull \hbox (badness 10000) in paragraph at lines 1--37
 
  []
 
@@ -1803,35 +1582,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 8--12
-
- []
-
-)
-Underfull \hbox (badness 10000) in paragraph at lines 13--37
-\T1/jkp/m/n/8 (+20) 1 volt-ampere $[]\OT1/jkp/m/n/8 (+20) 1\OML/jkp/m/it/8 V \OMS/jkp/m/n/8 ^^A \OML/jkp/m/it/8 A \OT1/jkp/m/n/8 (+20) =
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--37
-
- []
-
-[2] (/home/joao/Documents/F.Inf-CheatSheet/sheet.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (/home/joao/Documents/F.Inf-CheatSheet/sheet.aux) ) 
 Here is how much of TeX's memory you used:
- 33285 strings out of 492167
- 654775 string characters out of 6131559
- 779229 words of memory out of 5000000
- 37029 multiletter control sequences out of 15000+600000
- 599201 words of font info for 100 fonts, out of 8000000 for 9000
+ 33210 strings out of 492167
+ 652376 string characters out of 6131559
+ 779174 words of memory out of 5000000
+ 36959 multiletter control sequences out of 15000+600000
+ 561541 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,6n,71p,868b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf-dist/fonts/enc/dvips/sourcesanspro/a_ggs4wk.enc}</usr/share/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb></usr/share/texmf-dist/fonts/type1/public/kpfonts/jkpex.pfb></usr/share/texmf-dist/fonts/type1/public/kpfonts/jkpmi.pfb></usr/share/texmf-dist/fonts/type1/public/kpfonts/jkpmia.pfb></usr/share/texmf-dist/fonts/type1/public/kpfonts/jkpmn8a.pfb></usr/share/texmf-dist/fonts/type1/public/kpfonts/jkpsy.pfb>
-Output written on /home/joao/Documents/F.Inf-CheatSheet/sheet.pdf (2 pages, 115505 bytes).
+{/usr/share/texmf-dist/fonts/enc/dvips/kpfonts/kpfonts-expert.enc}{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1/public/kpfonts/jkpex.pfb></usr/share/texmf-dist/fonts/type1/public/kpfonts/jkpmi.pfb></usr/share/texmf-dist/fonts/type1/public/kpfonts/jkpmia.pfb></usr/share/texmf-dist/fonts/type1/public/kpfonts/jkpmn8a.pfb></usr/share/texmf-dist/fonts/type1/public/kpfonts/jkpmne.pfb></usr/share/texmf-dist/fonts/type1/public/kpfonts/jkpsy.pfb>
+Output written on /home/joao/Documents/F.Inf-CheatSheet/sheet.pdf (2 pages, 67405 bytes).
 PDF statistics:
  40 PDF objects out of 1000 (max. 8388607)
  29 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 16397 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 11277 words of extra memory for PDF output out of 12000 (max. 10000000)
 
