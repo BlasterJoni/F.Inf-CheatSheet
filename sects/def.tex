@@ -18,19 +18,21 @@
 \renewcommand{\baselinestretch}{.8}
 \pagestyle{empty}
 
-\global\mdfdefinestyle{header}{%
-linecolor=gray,linewidth=1pt,%
-leftmargin=0mm,rightmargin=0mm,skipbelow=0mm,skipabove=0mm,
-}
+% Uncomment for headder 
+%\global\mdfdefinestyle{header}{%
+%linecolor=gray,linewidth=1pt,%
+%leftmargin=0mm,rightmargin=0mm,skipbelow=0mm,skipabove=0mm,
+%}
 
-\newcommand{\header}{
-\begin{mdframed}[style=header]
-\footnotesize
-\sffamily
-Hilfszettel zur Klausur\\
-von~Tim~S.,~Seite~\thepage~von~2
-\end{mdframed}
-}
+% Uncomment for headder 
+%\newcommand{\header}{
+%\begin{mdframed}[style=header]
+%\footnotesize
+%\sffamily
+%Hilfszettel zur Klausur\\
+%von~Tim~S.,~Seite~\thepage~von~2
+%\end{mdframed}
+%}
 
 \makeatletter % Author: https://tex.stackexchange.com/questions/218587/how-to-set-one-header-for-each-page-using-multicols
 \renewcommand{\section}{\@startsection{section}{1}{0mm}%
@@ -72,7 +74,7 @@ von~Tim~S.,~Seite~\thepage~von~2
 %%%%% START CHANGE
 \ifnum\count@=\numexpr\mult@rightbox+2\relax
           \setbox\count@\vsplit\@cclv to \dimexpr \dimen@-1cm\relax
-\setbox\count@\vbox to \dimen@{\vbox to 1cm{\header}\unvbox\count@\vss}%
+% Uncomment for headder %\setbox\count@\vbox to \dimen@{\vbox to 1cm{\header}\unvbox\count@\vss}%
 \else
       \setbox\count@\vsplit\@cclv to \dimen@
 \fi
