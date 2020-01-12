@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1578812698 "/home/joao/Documents/F.Inf-CheatSheet/sheet.tex" "/home/joao/Documents/F.Inf-CheatSheet/sheet.pdf" "sheet" 1578812700
+["pdflatex"] 1578813052 "/home/joao/Documents/F.Inf-CheatSheet/sheet.tex" "/home/joao/Documents/F.Inf-CheatSheet/sheet.pdf" "sheet" 1578813054
   "/dev/null" 1578504866 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "/home/joao/Documents/F.Inf-CheatSheet/sheet.aux" 1578812700 102 e5ff17e35bbcf340a7f70d4529bfa2c4 ""
-  "/home/joao/Documents/F.Inf-CheatSheet/sheet.tex" 1578809435 1671 67b1dde1d246b3b788f98267680dc3a1 ""
+  "/home/joao/Documents/F.Inf-CheatSheet/sheet.aux" 1578813053 102 e5ff17e35bbcf340a7f70d4529bfa2c4 ""
+  "/home/joao/Documents/F.Inf-CheatSheet/sheet.tex" 1578812922 1671 67b1dde1d246b3b788f98267680dc3a1 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1572595918 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texmf-dist/fonts/enc/dvips/kpfonts/kpfonts-expert.enc" 1572568373 2639 b7bbeb66c016cde6fdcad9263fe54a4a ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1572595918 3332 103109f5612ad95229751940c61aada0 ""
@@ -212,7 +212,7 @@
   "sects/12-magneticFieldsDueToCurrents/magneticFieldsDueToCurrents.tex" 1578802711 1202 d329b167619ae7e81e579107426cced1 ""
   "sects/13-inductionInductance/inductionInductance.tex" 1578804923 1089 51fe1afd4e2769ddc1c73638aaf513d7 ""
   "sects/14-correnteAlternada/correnteAlternada.tex" 1578805526 448 ae52c3d2953461a3d10462e254e731fd ""
-  "sects/15-maxwellEquatios/maxwellEquations.tex" 1578812698 436 7e91fb436d890719647ae29683af44ea ""
+  "sects/15-maxwellEquatios/maxwellEquations.tex" 1578813052 438 6bba99920995b4854fc1855bbb015fd2 ""
   "sects/16-electromagneticWaves/electromagneticWaves.tex" 1578811847 742 48f38d0efadb2a9cde856893760d3488 ""
   "sects/17-interferenciaDifracao/interferenciaDifracao.tex" 1578812662 777 630a238de0353a434eb973cfce2eb07c ""
   "sects/2-waves1/waves1.tex" 1578774930 945 1c87630c84b27bd31f3150e0b8b1fa63 ""
@@ -224,12 +224,12 @@
   "sects/8-capacitance/capacitance.tex" 1578774968 840 44acf98efe46f513775df7ad568fd1ed ""
   "sects/9-currentAndResistance/currentAndResistance.tex" 1578780504 760 e0043046c242d5e215ee82befbc7dc63 ""
   "sects/def.tex" 1578805890 4860 f157be03ccbc79a3cf14489cd4a1ece8 ""
-  "sheet.aux" 1578812700 102 e5ff17e35bbcf340a7f70d4529bfa2c4 "pdflatex"
-  "sheet.tex" 1578809435 1671 67b1dde1d246b3b788f98267680dc3a1 ""
+  "sheet.aux" 1578813053 102 e5ff17e35bbcf340a7f70d4529bfa2c4 "pdflatex"
+  "sheet.tex" 1578812922 1671 67b1dde1d246b3b788f98267680dc3a1 ""
   (generated)
-  "sheet.log"
+  "sects/def.aux"
   "sheet.aux"
   "/home/joao/Documents/F.Inf-CheatSheet/sheet.pdf"
-  "sects/def.aux"
-  "/home/joao/Documents/F.Inf-CheatSheet/sheet.log"
+  "sheet.log"
   "sheet.pdf"
+  "/home/joao/Documents/F.Inf-CheatSheet/sheet.log"
