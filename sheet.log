@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2020.1.3)  11 JAN 2020 20:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2020.1.3)  12 JAN 2020 07:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1533,48 +1533,98 @@ File: ujkpsyb.fd 2006/08/15 v1.0
 LaTeX Font Info:    Trying to load font information for U+jkpsyc on input line 3.
  (/usr/share/texmf-dist/tex/latex/kpfonts/ujkpsyc.fd
 File: ujkpsyc.fd 2006/08/15 v1.0
-)) (/home/joao/Documents/F.Inf-CheatSheet/sects/2-waves1/waves1.tex) (/home/joao/Documents/F.Inf-CheatSheet/sects/3-waves2/waves2.tex) (/home/joao/Documents/F.Inf-CheatSheet/sects/4-electricCharge/electricCharge.tex) (/home/joao/Documents/F.Inf-CheatSheet/sects/5-electricFields/electricFields.tex) (/home/joao/Documents/F.Inf-CheatSheet/sects/6-gaussLaw/gaussLaw.tex) (/home/joao/Documents/F.Inf-CheatSheet/sects/7-electricPotential/electricPotential.tex) (/home/joao/Documents/F.Inf-CheatSheet/sects/8-capacitance/capacitance.tex) (/home/joao/Documents/F.Inf-CheatSheet/sects/9-currenAndResistance/currentAndResistance.tex)
-Underfull \hbox (badness 10000) in paragraph at lines 1--37
+)) (/home/joao/Documents/F.Inf-CheatSheet/sects/2-waves1/waves1.tex) (/home/joao/Documents/F.Inf-CheatSheet/sects/3-waves2/waves2.tex) (/home/joao/Documents/F.Inf-CheatSheet/sects/4-electricCharge/electricCharge.tex) (/home/joao/Documents/F.Inf-CheatSheet/sects/5-electricFields/electricFields.tex) (/home/joao/Documents/F.Inf-CheatSheet/sects/6-gaussLaw/gaussLaw.tex) (/home/joao/Documents/F.Inf-CheatSheet/sects/7-electricPotential/electricPotential.tex) (/home/joao/Documents/F.Inf-CheatSheet/sects/8-capacitance/capacitance.tex) (/home/joao/Documents/F.Inf-CheatSheet/sects/9-currentAndResistance/currentAndResistance.tex) (/home/joao/Documents/F.Inf-CheatSheet/sects/10-circuitosElectricos/circuitosElectricos.tex) (/home/joao/Documents/F.Inf-CheatSheet/sects/11-campoMagnetico/campoMagnetico.tex) (/home/joao/Documents/F.Inf-CheatSheet/sects/12-magneticFieldsDueToCurrents/magneticFieldsDueToCurrents.tex) (/home/joao/Documents/F.Inf-CheatSheet/sects/13-inductionInductance/inductionInductance.tex) (/home/joao/Documents/F.Inf-CheatSheet/sects/14-correnteAlternada/correnteAlternada.tex) (/home/joao/Documents/F.Inf-CheatSheet/sects/15-maxwellEquatios/maxwellEquations.tex) (/home/joao/Documents/F.Inf-CheatSheet/sects/16-electromagneticWaves/electromagneticWaves.tex) (/home/joao/Documents/F.Inf-CheatSheet/sects/17-interferenciaDifracao/interferenciaDifracao.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--46
 []\OML/jkp/m/it/8 y[] [] \OT1/jkp/m/n/8 (+20) =
  []
 
 
-Overfull \hbox (1.90576pt too wide) in paragraph at lines 1--37
+Overfull \hbox (1.90576pt too wide) in paragraph at lines 1--46
 [] \OML/jkp/m/it/8 sin []$[] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--37
-[]\OT1/jkp/m/n/8 (+20) 1\OML/jkp/m/it/8 eV \OT1/jkp/m/n/8 (+20) = \OML/jkp/m/it/8 e [] \OT1/jkp/m/n/8 (+20) =
+Underfull \hbox (badness 10000) in paragraph at lines 1--46
+\OT1/jkp/m/n/8 (+20) 1\OML/jkp/m/it/8 V=m$[] \T1/jkp/m/n/8 (+20) ; $[]\OT1/jkp/m/n/8 (+20) 1\OML/jkp/m/it/8 eV \OT1/jkp/m/n/8 (+20) = \OML/jkp/m/it/8 e [] \OT1/jkp/m/n/8 (+20) =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--37
+Underfull \hbox (badness 10000) in paragraph at lines 1--46
 [] [] \OT1/jkp/m/n/8 (+20) =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--37
+Underfull \hbox (badness 10000) in paragraph at lines 1--46
 \T1/jkp/m/n/8 (+20) Superposition prin-ci-ple,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--37
+Underfull \hbox (badness 10000) in paragraph at lines 1--46
 \T1/jkp/m/n/8 (+20) li-ke elec-tric fields that
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--37
+Underfull \hbox (badness 10000) in paragraph at lines 1--46
 \T1/jkp/m/n/8 (+20) was a sum of vec-tors
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--37
+Underfull \hbox (badness 10000) in paragraph at lines 1--46
 \T1/jkp/m/n/8 (+20) 1 volt-ampere $[]\OT1/jkp/m/n/8 (+20) 1\OML/jkp/m/it/8 V \OMS/jkp/m/n/8 ^^A \OML/jkp/m/it/8 A \OT1/jkp/m/n/8 (+20) =
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--37
+Underfull \hbox (badness 10000) in paragraph at lines 1--46
+\T1/jkp/m/n/8 (+20) Regra mao di-rei-ta(pistola):
+ []
+
+
+Overfull \hbox (2.92209pt too wide) in paragraph at lines 1--46
+[]\T1/jkp/m/n/8 (-20) MovParticCarregCampoElecMag[] 
+ []
+
+
+Underfull \hbox (badness 7186) in paragraph at lines 1--46
+\T1/jkp/m/n/8 (+20) Regra mao di-rei-ta: po-le-gar
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--46
+[]\T1/jkp/m/n/8 (+20) CMag Exerc Mo-ment-For-ca
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--46
+\T1/jkp/m/n/8 (+20) Permeability con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--46
+\T1/jkp/m/n/8 (+20) stant(constante ma-gne-ti-ca):
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--46
+[]\OML/jkp/m/it/8 V[] \OT1/jkp/m/n/8 (+20) = \OML/jkp/m/it/8 V[][]$[] \T1/jkp/m/n/8 (+20) trans-for-ma-cao
+ []
+
+
+Underfull \hbox (badness 5105) in paragraph at lines 1--46
+\T1/jkp/m/n/8 (+20) field ; $[][] [] \OMS/jkp/m/n/8 ^^A \OML/jkp/m/it/8 d[] \OT1/jkp/m/n/8 (+20) = \OML/jkp/m/it/8 ^^V[]"[][]$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--46
+\T1/jkp/m/n/8 (+20) max-well law in-fuc-ti-on ;
+ []
+
+
+Underfull \hbox (badness 6220) in paragraph at lines 1--46
+[]\OML/jkp/m/it/8 E \OT1/jkp/m/n/8 (+20) = \OML/jkp/m/it/8 E[]sin []$[] \T1/jkp/m/n/8 (+20) elec-tric
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--46
 
  []
 
@@ -1584,18 +1634,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--37
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (/home/joao/Documents/F.Inf-CheatSheet/sheet.aux) ) 
 Here is how much of TeX's memory you used:
- 33210 strings out of 492167
- 652376 string characters out of 6131559
- 779174 words of memory out of 5000000
- 36959 multiletter control sequences out of 15000+600000
- 561541 words of font info for 99 fonts, out of 8000000 for 9000
+ 33338 strings out of 492167
+ 655909 string characters out of 6131559
+ 807173 words of memory out of 5000000
+ 36967 multiletter control sequences out of 15000+600000
+ 569463 words of font info for 159 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,6n,71p,868b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/kpfonts/kpfonts-expert.enc}{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1/public/kpfonts/jkpex.pfb></usr/share/texmf-dist/fonts/type1/public/kpfonts/jkpmi.pfb></usr/share/texmf-dist/fonts/type1/public/kpfonts/jkpmia.pfb></usr/share/texmf-dist/fonts/type1/public/kpfonts/jkpmn8a.pfb></usr/share/texmf-dist/fonts/type1/public/kpfonts/jkpmne.pfb></usr/share/texmf-dist/fonts/type1/public/kpfonts/jkpsy.pfb>
-Output written on /home/joao/Documents/F.Inf-CheatSheet/sheet.pdf (2 pages, 67405 bytes).
+{/usr/share/texmf-dist/fonts/enc/dvips/kpfonts/kpfonts-expert.enc}{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1/public/kpfonts/jkpex.pfb></usr/share/texmf-dist/fonts/type1/public/kpfonts/jkpmi.pfb></usr/share/texmf-dist/fonts/type1/public/kpfonts/jkpmia.pfb></usr/share/texmf-dist/fonts/type1/public/kpfonts/jkpmn8a.pfb></usr/share/texmf-dist/fonts/type1/public/kpfonts/jkpmne.pfb></usr/share/texmf-dist/fonts/type1/public/kpfonts/jkpsy.pfb></usr/share/texmf-dist/fonts/type1/public/kpfonts/jkpsyc.pfb>
+Output written on /home/joao/Documents/F.Inf-CheatSheet/sheet.pdf (2 pages, 83037 bytes).
 PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
- 29 compressed objects within 1 object stream
+ 44 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11277 words of extra memory for PDF output out of 12000 (max. 10000000)
 
